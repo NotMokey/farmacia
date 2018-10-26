@@ -1,0 +1,30 @@
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmFornecedor.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmInicial.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmLogin.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPagamento.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPesquisa.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPessoa.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+G:\Farmacia\Visual 2015\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmFornecedor.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmInicial.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmLogin.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPagamento.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPesquisa.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmPessoa.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmProduto.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Forms.frmVenda.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\alunonoturno\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
